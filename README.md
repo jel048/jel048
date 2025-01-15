@@ -2,7 +2,7 @@
 
 ## About me
 ***
-### Student at UiT Norges Arktiske Universitet, on the final semester of Datateknikk Ingeniør (Computer Engineer)
+### Student at UiT Norges Arktiske Universitet, on the final semester of Datateknikk Ingeniør (Computer Engineer)   
 
 
 ### 🚀 Tech Stack
@@ -31,9 +31,11 @@
 
 ---
 
-### Connect!
+### Connect! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jørgen-eliassen-aa1995346)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jel048)
+
+---
 
 
 <!--
