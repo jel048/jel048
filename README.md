@@ -22,12 +22,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Jørgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jel048&show_icons=true&theme=radical&cache_seconds=0)
+![Jørgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jel048&show_icons=true&theme=radical&cache_seconds=3000)
 
 ---
 
 ### 🌟 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jel048&layout=compact&theme=radical&cache_seconds=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jel048&layout=compact&theme=radical&cache_seconds=3000)
 
 ---
 
