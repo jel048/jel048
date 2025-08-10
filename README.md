@@ -2,7 +2,7 @@
 
 ## About me
 ***
-### Student at UiT Norges Arktiske Universitet, on the final semester of Datateknikk Ingeniør (Computer Engineer)   
+### 2025 graduate of Datateknikk Ingeniør (Computer Engineer) at UiT Norges Arktiske Universitet
 
 
 ### 🚀 Tech Stack
