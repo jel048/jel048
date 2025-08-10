@@ -19,19 +19,19 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ---
 
 ### 🌟 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jel048&layout=compact&theme=radical&cache_seconds=3000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jel048&layout=compact&theme=radical&cache_seconds=1800&v=1)
 
 ---
 
 ### 📊 GitHub Stats
-![Jørgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jel048&show_icons=true&theme=radical&cache_seconds=3000)
+![Jørgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jel048&show_icons=true&theme=radical&cache_seconds=1800&v=1)
 
 ---
-
 
 
 <!--
